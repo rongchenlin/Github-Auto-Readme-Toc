@@ -10,9 +10,9 @@
 
 - Clone本项目，此时你将获得一个文件夹。
 
-- 在Chrome浏览器中进入：[拓展程序管理](chrome://extensions/)，打开**开发者模式**，点击**加载y已解压的拓展程序**，在弹出的文件选择器中选中刚才Clone的文件夹。
+- 在Chrome浏览器中进入：[拓展程序管理chrome://extensions/](chrome://extensions/)，打开**开发者模式**，点击**加载已解压的拓展程序**，在弹出的文件选择器中选中刚才Clone的文件夹。
 
-- 进入任意Github开源项目（比如这个：[开源项目]([GitHub - rongchenlin/BiliBili-Lucky-Draw: B站抽奖转发——薅羊毛脚本 : 一个小脚本能够帮助你去看看B站上面今天有哪些Up有抽奖活动，然后还能帮助你自动进行抽奖（转发动态+关注），毕竟抽奖总得试试吗，万一中奖了呢](https://github.com/rongchenlin/BiliBili-Lucky-Draw))），然后点击插件，即可使用。
+- 进入任意Github开源项目（比如这个：[开源项目]([https://github.com/rongchenlin/BiliBili-Lucky-Draw)），然后点击插件，即可使用。
 
 ## 3. 效果
 
