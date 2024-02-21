@@ -1,5 +1,3 @@
-
-
 ## Github项目页自动生成目录（Chrome网页插件）
 
 -------
@@ -18,4 +16,4 @@
 
 ## 3. 效果
 
-<img title="" src="./images/Readme.assets/2024-02-21-13-43-39-image.png" alt="" data-align="center">
+<img title="" src="images/Readme.assets/2024-02-21-13-43-39-image.png" alt="loading-ag-122" data-align="center">
