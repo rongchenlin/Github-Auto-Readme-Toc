@@ -12,7 +12,7 @@
 
 - 在Chrome浏览器中进入：[拓展程序管理chrome://extensions/](chrome://extensions/)，打开**开发者模式**，点击**加载已解压的拓展程序**，在弹出的文件选择器中选中刚才Clone的文件夹。
 
-- 进入任意Github开源项目（比如这个：[开源项目]([https://github.com/rongchenlin/BiliBili-Lucky-Draw)），然后点击插件，即可使用。
+- 进入任意Github开源项目（比如这个：[开源项目](https://github.com/rongchenlin/BiliBili-Lucky-Draw)），然后点击插件，即可使用。
 
 ## 3. 效果
 
