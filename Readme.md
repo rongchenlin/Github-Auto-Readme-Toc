@@ -1,4 +1,4 @@
-# Github-Auto-Readme-Toc
+
 
 ## Github项目页自动生成目录（Chrome网页插件）
 
@@ -18,4 +18,4 @@
 
 ## 3. 效果
 
-<img title="" src="img/Readmd.assets/2024-02-21-13-43-39-image.png" alt="" data-align="center">
+<img title="" src="img/Readme.assets/2024-02-21-13-43-39-image.png" alt="" data-align="center">
