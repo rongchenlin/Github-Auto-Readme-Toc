@@ -18,4 +18,4 @@
 
 ## 3. 效果
 
-<img title="" src="img/Readme.assets/2024-02-21-13-43-39-image.png" alt="" data-align="center">
+<img title="" src="images/Readme.assets/2024-02-21-13-43-39-image.png" alt="" data-align="center">
