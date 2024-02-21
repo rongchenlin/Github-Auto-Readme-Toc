@@ -1,4 +1,4 @@
-# Github-Auto-Readme-Toc：
+# Github-Auto-Readme-Toc
 
 ## Github项目页自动生成目录（Chrome网页插件）
 
